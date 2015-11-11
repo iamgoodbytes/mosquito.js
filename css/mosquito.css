@@ -7,6 +7,19 @@ html, body
     background-repeat: no-repeat;
     background-size: 75%;
     background-position: 20% 20vh;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.toggle-about{
+  display: block;
+  background-color: #397FFB;
+  color: white;
+  padding: 1em 5%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90%;
+  z-index: 9999;
 }
 
 #meter
